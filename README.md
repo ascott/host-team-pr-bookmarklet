@@ -13,3 +13,11 @@ a bookmarklet to format a github pull request for the host team
 
 Please review: @airbnbnerd1, @airbnbnerd2
 cc @airbnb/hostexperience
+
+# Usage
+
+1. chrome://bookmarks/
+2. click "New" button
+3. copy contents of this [file](https://github.com/ascott/host-team-pr-bookmarklet/blob/master/bookmarklet.txt) and paste into url field
+![screenshot](https://cldup.com/hwEUrxZ8PT.png)
+
